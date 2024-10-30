@@ -1,6 +1,5 @@
 import React from "react";
 import styled from "styled-components";
-import Chip from "./Chip";
 
 const Content_Container = styled.div`
   margin: 12px 0;
